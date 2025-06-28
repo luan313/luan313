@@ -5,7 +5,7 @@
 Me chamo Luan da Silva Fernandes, tenho 19 anos, sou natural do Rio de Janeiro e moro em Goiás. Atualmente, estou cursando Ciência da Computação na UFG. Tenho o objetivo de me tornar um desenvolvedor full stack e ultimamente, estou estudando tecnologias de desenvolvimento web, como TypeScript, React, JavaScript, HTML e CSS.
 
 <p align="left">
-    <a href="www.linkedin.com/in/luan-fernandes-98740a343">
+    <a href="https://www.linkedin.com/in/luan-fernandes-98740a343">
         <img 
             alt="linkedin profile" 
             title="Linkedin Profile" 
