@@ -9,8 +9,7 @@ Me chamo Luan da Silva Fernandes, tenho 19 anos, sou natural do Rio de Janeiro e
         <img 
             alt="linkedin profile" 
             title="Linkedin Profile" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn profile-0077B5?icon=linkedin&iconColor=white&style=for-the-badge
-            "
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn profile-0077B5?icon=linkedin&iconColor=white&style=for-the-badge"
         />
     </a>
 </p>
