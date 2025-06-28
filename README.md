@@ -98,3 +98,26 @@ Me chamo Luan da Silva Fernandes, tenho 19 anos, sou natural do Rio de Janeiro e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=luan313&show_icons=true&theme=dark&locale=pt-br&hide_rank=true&include_all_comits=true"
+/>
+
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&locale=pt-br&layout=compact&include_all_comits=true"
+/>
+
+
